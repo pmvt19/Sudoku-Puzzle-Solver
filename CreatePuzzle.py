@@ -1,0 +1,3 @@
+board = []
+
+def possibleGenerations():
